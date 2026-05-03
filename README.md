@@ -4,6 +4,14 @@
 
 ---
 
+<img width="286" height="510" alt="Screenshot_4" src="https://github.com/user-attachments/assets/d6b30ca3-dd46-4f8f-9063-a57219fc0464" />
+<img width="284" height="575" alt="Screenshot_3" src="https://github.com/user-attachments/assets/c3cb2080-4d9a-460c-b4ab-94e1237c0d93" />
+<img width="284" height="567" alt="Screenshot_2" src="https://github.com/user-attachments/assets/7c847f38-9845-4f5f-bc84-89b627df906b" />
+<img width="313" height="621" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d7b4b0b9-00a7-49b5-bf64-79a0dfd901f0" />
+<img width="282" height="502" alt="Screenshot_5" src="https://github.com/user-attachments/assets/d6d1950a-209f-43d1-b506-f1616d1c4602" />
+
+
+
 ## ✨ Fitur Utama
 
 ### 🛒 1. Kasir Digital (Point of Sale)
