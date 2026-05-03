@@ -72,4 +72,4 @@ Kami telah menyediakan panduan mendalam untuk membantu Anda memulai:
 4. Klik **Run** dan mulai kelola bisnis Anda!
 
 ---
-Developed with ❤️ by **WarungPOS Team**
+Developed with ❤️ by **EOS AGENG**
