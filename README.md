@@ -9,7 +9,7 @@
 <img width="30%" alt="Screenshot_2" src="https://github.com/user-attachments/assets/7c847f38-9845-4f5f-bc84-89b627df906b" />
 <img width="30%" alt="Screenshot_1" src="https://github.com/user-attachments/assets/d7b4b0b9-00a7-49b5-bf64-79a0dfd901f0" />
 <img width="30%" alt="Screenshot_5" src="https://github.com/user-attachments/assets/d6d1950a-209f-43d1-b506-f1616d1c4602" />
-
+<img width="30%" alt="Screenshot_1" src="https://github.com/user-attachments/assets/20b28d82-b7bd-4e2b-93eb-4976dbdfebb8" />
 
 
 ## ✨ Fitur Utama
