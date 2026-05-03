@@ -1,6 +1,6 @@
 # 🏪 WarungPOS - Sistem Kasir Pintar & Modern
 
-**WarungPOS** adalah aplikasi Point of Sale (POS) berbasis Android yang dirancang untuk memberikan solusi manajemen penjualan yang cepat, handal, dan estetik bagi UMKM. Dibangun dengan teknologi terkini untuk memastikan operasional bisnis Anda berjalan tanpa hambatan, baik secara offline maupun online.
+**WarungPOS** adalah aplikasi Point of Sale (POS) berbasis Android yang dirancang untuk memberikan solusi manajemen penjualan yang cepat, handal, dan estetik bagi UMKM. Dibangun dengan teknologi terkini untuk memastikan operasional bisnis Anda berjalan tanpa hambatan, baik secara offline maupun online. Download Aplikasi [Klik Disini](https://github.com/eosap98/WarungPOS/releases/download/V1.0/WPOS-KasirAndroid.apk)
 
 ---
 
