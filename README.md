@@ -58,7 +58,7 @@
 
 ## 📚 Panduan Pengguna
 - [📖 Panduan Integrasi Google Sheets](file:///d:/ProjectAPP/App%20POS%20Android/rev3/tutorial_google_sheets.md)
-- [🔥 Setup Firebase & Remote Database](file:///d:/ProjectAPP/App%20POS%20Android/rev3/tutorial_firebase_lengkap.md)
+- [🔥 Setup Firebase & Remote Database](https://github.com/eosap98/WarungPOS/blob/main/tutorial_firebase_lengkap.md)
 - [☁️ Panduan Remote Storage (Google Drive)](file:///d:/ProjectAPP/App%20POS%20Android/rev3/tutorial_google_drive.md)
 - [🖥️ Setup Server Lokal (Linux/Local)](file:///d:/ProjectAPP/App%20POS%20Android/rev3/tutorial_linux_lokal.md)
 
