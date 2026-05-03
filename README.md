@@ -56,20 +56,11 @@
 
 ---
 
-## 📚 Panduan Pengguna & Developer
-Kami telah menyediakan panduan mendalam untuk membantu Anda memulai:
+## 📚 Panduan Pengguna
 - [📖 Panduan Integrasi Google Sheets](file:///d:/ProjectAPP/App%20POS%20Android/rev3/tutorial_google_sheets.md)
 - [🔥 Setup Firebase & Remote Database](file:///d:/ProjectAPP/App%20POS%20Android/rev3/tutorial_firebase_lengkap.md)
 - [☁️ Panduan Remote Storage (Google Drive)](file:///d:/ProjectAPP/App%20POS%20Android/rev3/tutorial_google_drive.md)
 - [🖥️ Setup Server Lokal (Linux/Local)](file:///d:/ProjectAPP/App%20POS%20Android/rev3/tutorial_linux_lokal.md)
-
----
-
-## 📥 Instalasi Cepat
-1. Clone repositori ini.
-2. Buka project di **Android Studio (Ladybug atau terbaru)**.
-3. Hubungkan perangkat Android atau gunakan Emulator.
-4. Klik **Run** dan mulai kelola bisnis Anda!
 
 ---
 Developed with ❤️ by **EOS AGENG**
